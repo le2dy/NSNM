@@ -1,2 +1,5 @@
 # NSNM
-repository for Project NSNM
+군대에서 웹 프로그램들을 만들어보자!
+
+##프로젝트 목록
+ 1. RPG
